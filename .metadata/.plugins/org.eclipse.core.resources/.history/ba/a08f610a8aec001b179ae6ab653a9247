@@ -1,0 +1,30 @@
+package automation.RestAssureAPI;
+
+import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+
+import static io.restassured.RestAssured.*;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "------------------------Stated------------------------" );
+        RestAssured.baseURI = "https://rahulshettyacademy.com";
+//        given
+//        When
+//        Then
+        String response = given().log().all().queryParam("key", "qaclick123").header("Content-type","application/json").body(DataProvider.getPayload())
+        .when().post("maps/api/place/add/json")
+        .then().log().all().assertThat().statusCode(200).extract().response().asString();
+        
+        JsonPath jp = new JsonPath(response);
+        response=jp.get("place_id");
+        System.out.println(response);
+        System.out.println( "------------------------Completed------------------------" );
+    }
+}
