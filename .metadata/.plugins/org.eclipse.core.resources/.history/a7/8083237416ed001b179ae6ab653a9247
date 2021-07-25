@@ -1,0 +1,15 @@
+package libraryApi;
+
+import org.testng.annotations.Test;
+import static org.testng.annotations.Test.*;
+import io.restassured.RestAssured;
+
+public class LibraryTest {
+
+	
+	@Test
+	public void postAddbook() {
+		RestAssured.baseURI = "http://216.10.245.166";
+		given
+	}
+}

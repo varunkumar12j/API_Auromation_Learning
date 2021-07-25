@@ -23,7 +23,7 @@ public class App
 //        given
 //        When
 //        Then
-        String response = given().log().all().queryParam("key", "qaclick123").header("Content-type","application/json").body(DataProvider.getPayload())
+        String response = given().log().all().queryParam("key", "qaclick123").header("Content-type","application/json").body(DataProviderClass.getPayload())
         .when().post("maps/api/place/add/json")
         .then().log().all().assertThat().statusCode(200).extract().response().asString();
         
@@ -31,10 +31,10 @@ public class App
         placeId=jp.get("place_id");
         System.out.println("place_id :"+response);
         
-        jp = new JsonPath(DataProvider.getPayload());
+        jp = new JsonPath(DataProviderClass.getPayload());
         System.out.println("Address :"+jp.get("address"));
         
-        response = given().queryParam("key", "qaclick123").body(String.format(DataProvider.getPutPayload(), placeId))
+        response = given().queryParam("key", "qaclick123").body(String.format(DataProviderClass.getPutPayload(), placeId))
         .when().put("maps/api/place/update/json")
         .then().extract().response().asString();
         

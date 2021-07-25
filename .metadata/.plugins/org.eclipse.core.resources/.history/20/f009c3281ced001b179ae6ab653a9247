@@ -1,0 +1,32 @@
+package libraryApi;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.testng.annotations.Test;
+
+
+import automation.RestAssureAPI.DataProviderClass;
+import org.testng.annotations.*;
+import io.restassured.RestAssured;
+import static io.restassured.RestAssured.*;
+
+public class LibraryTest {
+
+	
+	@Test
+	public void postAddbook() {
+		RestAssured.baseURI = "http://216.10.245.166";
+		String respose = given().body(DataProviderClass.addBook("Learn Appium Automation with Java", RandomStringUtils.randomAlphabetic(3), RandomStringUtils.randomAlphanumeric(6), "John foe")).log().all().when().get("Library/Addbook.php").then().extract().response().asString();
+		System.out.println(respose);
+	}
+	
+	@DataProvider
+	public Object[][] getBookData(){
+		return new Object[][] {
+			{
+				"Learn Appium Automation with Java",""
+			},{
+				"Learn API Automation with Java",""
+			}
+		};
+	}
+}
