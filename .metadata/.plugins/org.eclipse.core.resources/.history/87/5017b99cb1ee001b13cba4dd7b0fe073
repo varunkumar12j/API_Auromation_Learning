@@ -1,0 +1,10 @@
+package pojo;
+
+public class CourseSeriAndDeserialization {
+
+	private String webAutomation;
+	private String api;
+	private String mobile;
+	
+	
+}

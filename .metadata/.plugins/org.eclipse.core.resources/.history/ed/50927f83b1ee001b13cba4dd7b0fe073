@@ -1,0 +1,28 @@
+package pojo;
+
+public class CourseSeriAndDeserialization {
+
+	private String weAutomation;
+	private String api;
+	private String monile;
+	
+	public String getWeAutomation() {
+		return weAutomation;
+	}
+	public void setWeAutomation(String weAutomation) {
+		this.weAutomation = weAutomation;
+	}
+	public String getApi() {
+		return api;
+	}
+	public void setApi(String api) {
+		this.api = api;
+	}
+	public String getMonile() {
+		return monile;
+	}
+	public void setMonile(String monile) {
+		this.monile = monile;
+	}
+	
+}

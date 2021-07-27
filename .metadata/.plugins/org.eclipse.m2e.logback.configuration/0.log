@@ -327,3 +327,445 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-07-24 20:12:05,541 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
 2021-07-24 20:12:05,542 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-24 20:12:05,543 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:30:17,537 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:30:17,542 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:30:17,544 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:30:17,544 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:30:40,904 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:30:40,904 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:30:40,905 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:30:40,905 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:32:59,644 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:32:59,644 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:32:59,646 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:32:59,647 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:33:19,956 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:19,956 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:33:19,957 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:19,957 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:33:46,005 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:46,005 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:33:46,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:46,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:33:47,825 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:47,825 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:33:47,826 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:33:47,826 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:35:04,182 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:35:04,182 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:35:04,184 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:35:04,184 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:35:12,737 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:35:12,737 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:35:12,741 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:35:12,741 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:38:11,122 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:RestAssureAPI:0.0.1-SNAPSHOT @ E:\Project_Code\RestApi\RestAssureAPI\pom.xml.
+2021-07-25 12:38:13,107 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.1.0/testng-7.1.0.pom
+2021-07-25 12:38:13,531 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.1.0/testng-7.1.0.pom
+2021-07-25 12:38:13,734 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.pom
+2021-07-25 12:38:13,992 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.pom
+2021-07-25 12:38:14,195 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2021-07-25 12:38:14,471 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2021-07-25 12:38:14,701 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2021-07-25 12:38:14,946 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2021-07-25 12:38:15,171 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2021-07-25 12:38:16,040 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2021-07-25 12:38:16,243 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2021-07-25 12:38:16,461 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2021-07-25 12:38:16,667 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2021-07-25 12:38:16,889 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2021-07-25 12:38:17,101 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2021-07-25 12:38:17,325 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+2021-07-25 12:38:17,564 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2021-07-25 12:38:17,780 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+2021-07-25 12:38:18,018 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.21/snakeyaml-1.21.pom
+2021-07-25 12:38:18,725 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.21/snakeyaml-1.21.pom
+2021-07-25 12:38:19,035 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.1.0/testng-7.1.0.jar
+2021-07-25 12:38:25,054 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.1.0/testng-7.1.0.jar
+2021-07-25 12:38:25,247 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.jar
+2021-07-25 12:38:26,183 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72.jar
+2021-07-25 12:38:26,378 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2021-07-25 12:38:31,016 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2021-07-25 12:38:31,210 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2021-07-25 12:38:32,117 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2021-07-25 12:38:32,341 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2021-07-25 12:38:32,591 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2021-07-25 12:38:32,783 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
+2021-07-25 12:39:10,152 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
+2021-07-25 12:39:10,345 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+2021-07-25 12:39:13,544 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar
+2021-07-25 12:39:16,296 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:16,296 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:39:16,298 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:16,298 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:39:17,564 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:17,564 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:39:17,565 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:17,565 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:39:52,991 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:RestAssureAPI:0.0.1-SNAPSHOT @ E:\Project_Code\RestApi\RestAssureAPI\pom.xml.
+2021-07-25 12:39:53,376 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:53,376 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:39:53,377 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:53,377 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:39:54,636 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:54,636 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:39:54,638 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:39:54,638 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:39:57,885 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Project_Code\RestApi\RestAssureAPI
+2021-07-25 12:39:57,886 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-25 12:40:09,748 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:40:09,748 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:40:09,749 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:40:09,749 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:43:41,963 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:RestAssureAPI:0.0.1-SNAPSHOT @ E:\Project_Code\RestApi\RestAssureAPI\pom.xml.
+2021-07-25 12:43:42,947 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.9.10/testng-6.9.10.pom
+2021-07-25 12:43:43,392 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.9.10/testng-6.9.10.pom
+2021-07-25 12:43:43,612 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48.pom
+2021-07-25 12:43:43,861 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48.pom
+2021-07-25 12:43:44,068 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2021-07-25 12:43:44,292 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2021-07-25 12:43:44,511 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2021-07-25 12:43:44,725 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2021-07-25 12:43:44,942 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2021-07-25 12:43:45,194 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2021-07-25 12:43:45,418 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.9.10/testng-6.9.10.jar
+2021-07-25 12:43:47,724 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.9.10/testng-6.9.10.jar
+2021-07-25 12:43:47,935 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48.jar
+2021-07-25 12:43:48,379 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.48/jcommander-1.48.jar
+2021-07-25 12:43:48,600 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2021-07-25 12:43:49,522 [Worker-97] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2021-07-25 12:43:49,971 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:43:49,972 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:43:49,973 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:43:49,973 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:43:51,188 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:43:51,188 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:43:51,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:43:51,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:44:37,473 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:44:37,473 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:44:37,475 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:44:37,475 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:52:38,614 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:38,614 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:52:38,615 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:38,615 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:52:43,354 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:43,354 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:52:43,356 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:43,356 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:52:59,237 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:59,237 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:52:59,238 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:52:59,238 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:54:56,768 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:54:56,769 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:54:56,770 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:54:56,771 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:56:41,303 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:56:41,304 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:56:41,309 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:56:41,310 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:57:09,185 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:57:09,185 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:57:09,186 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:57:09,187 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:57:51,799 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:57:51,799 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:57:51,800 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:57:51,801 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 12:59:57,783 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:59:57,783 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 12:59:57,784 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 12:59:57,785 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:09:22,252 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:09:22,252 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:09:22,254 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:09:22,254 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:10:03,594 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:10:03,595 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:10:03,596 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:10:03,596 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:11:08,285 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:11:08,285 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:11:08,286 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:11:08,286 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:12:39,934 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:12:39,934 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:12:39,935 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:12:39,935 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:12:47,218 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:12:47,218 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:12:47,222 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:12:47,222 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:13:03,683 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:03,683 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:13:03,684 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:03,684 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:13:15,908 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:15,908 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:13:15,909 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:15,909 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:13:21,584 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:21,584 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:13:21,585 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:21,585 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:13:39,352 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:39,352 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:13:39,353 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:39,353 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:13:55,055 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:55,055 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:13:55,056 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:13:55,056 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:14:18,758 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:18,758 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:14:18,759 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:18,759 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:14:36,526 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:36,526 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:14:36,527 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:36,527 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:14:53,734 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:53,734 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:14:53,735 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:14:53,735 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:15:23,647 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:15:23,647 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:15:23,649 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:15:23,649 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 13:15:36,297 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:15:36,297 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 13:15:36,298 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 13:15:36,298 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 16:50:39,029 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:50:39,036 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 16:50:39,048 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:50:39,048 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 16:50:56,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:50:56,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 16:50:56,651 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:50:56,651 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 16:58:24,903 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:58:24,903 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 16:58:24,906 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:58:24,906 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 16:58:29,274 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:58:29,274 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 16:58:29,275 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 16:58:29,275 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:00:05,668 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:00:05,668 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:00:05,669 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:00:05,669 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:01:18,463 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:01:18,463 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:01:18,465 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:01:18,465 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:02:50,698 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:02:50,699 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:02:50,701 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:02:50,701 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:04:26,431 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:04:26,432 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:04:26,432 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:04:26,433 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:04:34,844 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:04:34,844 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:04:34,846 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:04:34,846 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:05:16,427 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:05:16,428 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:05:16,430 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:05:16,430 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:12:52,583 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:12:52,584 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:12:52,585 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:12:52,586 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 17:13:01,217 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:13:01,218 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 17:13:01,220 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 17:13:01,220 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 21:55:22,237 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 21:55:22,239 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 21:55:22,242 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 21:55:22,242 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-25 21:55:26,620 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 21:55:26,620 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-25 21:55:26,622 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 21:55:26,622 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 11:54:31,849 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-27 12:22:48,588 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:RestAssureAPI:0.0.1-SNAPSHOT @ E:\Project_Code\RestApi\RestAssureAPI\pom.xml.
+2021-07-27 12:22:50,419 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.pom
+2021-07-27 12:22:50,875 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.pom
+2021-07-27 12:22:51,106 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.12.3/jackson-base-2.12.3.pom
+2021-07-27 12:22:51,358 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.12.3/jackson-base-2.12.3.pom
+2021-07-27 12:22:51,579 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.3/jackson-bom-2.12.3.pom
+2021-07-27 12:22:51,830 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.3/jackson-bom-2.12.3.pom
+2021-07-27 12:22:52,049 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2021-07-27 12:22:52,289 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2021-07-27 12:22:52,503 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2021-07-27 12:22:52,790 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2021-07-27 12:22:53,031 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.pom
+2021-07-27 12:22:53,325 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.pom
+2021-07-27 12:22:53,574 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.pom
+2021-07-27 12:22:54,308 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.pom
+2021-07-27 12:22:54,530 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.7/gson-2.8.7.pom
+2021-07-27 12:22:54,865 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.7/gson-2.8.7.pom
+2021-07-27 12:22:55,108 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.7/gson-parent-2.8.7.pom
+2021-07-27 12:22:55,420 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.7/gson-parent-2.8.7.pom
+2021-07-27 12:22:55,754 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar
+2021-07-27 12:22:59,434 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar
+2021-07-27 12:22:59,650 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar
+2021-07-27 12:22:59,943 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar
+2021-07-27 12:23:00,166 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar
+2021-07-27 12:23:01,116 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar
+2021-07-27 12:23:01,393 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+2021-07-27 12:23:02,042 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+2021-07-27 12:23:06,215 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:06,215 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:23:06,220 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:06,220 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:23:08,264 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:08,264 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:23:08,266 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:08,266 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:23:50,412 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-07-27 12:23:51,096 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: automation:RestAssureAPI:0.0.1-SNAPSHOT @ E:\Project_Code\RestApi\RestAssureAPI\pom.xml.
+2021-07-27 12:23:51,634 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssureAPI/src/main/java
+2021-07-27 12:23:51,637 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAssureAPI/src/test/java
+2021-07-27 12:23:51,864 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-07-27 12:23:52,363 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:52,363 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:23:52,366 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:23:52,366 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:24:00,259 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Project_Code\RestApi\RestAssureAPI
+2021-07-27 12:24:00,260 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-07-27 12:24:14,982 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:24:14,982 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:24:14,984 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:24:14,984 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:25:34,863 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:25:34,863 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:25:34,870 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:25:34,870 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:26:22,008 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:26:22,008 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:26:22,010 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:26:22,010 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:28:10,168 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:10,169 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:28:10,171 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:10,172 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:28:17,099 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:17,100 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:28:17,101 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:17,101 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:28:37,750 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:37,750 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:28:37,752 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:28:37,752 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:35:44,772 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:35:44,772 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:35:44,777 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:35:44,778 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:36:58,103 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:36:58,103 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:36:58,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:36:58,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:37:09,094 [Worker-32] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2021-07-27 12:37:21,551 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:37:21,552 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:37:21,554 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:37:21,554 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:38:17,790 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:38:17,790 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:38:17,792 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:38:17,792 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:43:21,832 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:43:21,833 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:43:21,835 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:43:21,835 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 12:55:33,321 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:55:33,321 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 12:55:33,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 12:55:33,323 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:34:30,060 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:34:30,061 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:34:30,065 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:34:30,065 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:34:34,583 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:34:34,583 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:34:34,585 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:34:34,585 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:35:53,174 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:35:53,174 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:35:53,177 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:35:53,177 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:36:06,352 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:06,352 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:36:06,353 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:06,354 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:36:19,504 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:19,505 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:36:19,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:19,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:36:57,291 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:57,291 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:36:57,293 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:36:57,293 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:37:59,741 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:37:59,742 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:37:59,744 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:37:59,744 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:38:24,620 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:38:24,620 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:38:24,623 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:38:24,623 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:38:49,075 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:38:49,075 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:38:49,077 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:38:49,077 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:41:56,119 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:41:56,119 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:41:56,121 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:41:56,121 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:42:03,870 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:42:03,871 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:42:03,872 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:42:03,872 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:48:02,975 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:02,976 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:48:02,977 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:02,977 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:48:33,794 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:33,794 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:48:33,796 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:33,796 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:48:52,285 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:52,285 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:48:52,286 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:48:52,287 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources
+2021-07-27 13:50:13,411 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:50:13,411 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\main\resources
+2021-07-27 13:50:13,412 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-27 13:50:13,412 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Project_Code\RestApi\RestAssureAPI\src\test\resources

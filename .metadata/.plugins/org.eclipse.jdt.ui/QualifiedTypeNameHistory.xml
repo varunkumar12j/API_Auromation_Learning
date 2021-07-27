@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.restassured.internal.common.assertion.GetAtPathFragmentEscaper"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang3.RandomStringUtils"/>
+<fullyQualifiedTypeName name="automation.RestAssureAPI.DataProvider"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="automation.RestAssureAPI.DataProviderClass"/>
+<fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+<fullyQualifiedTypeName name="io.restassured.filter.session.SessionFilter"/>
+<fullyQualifiedTypeName name="pojo.CourseSeriAndDeserialization"/>
+<fullyQualifiedTypeName name="pojo.WebAutomation"/>
+<fullyQualifiedTypeName name="pojo.Mobile"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

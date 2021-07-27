@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="2890" started-at="2021-07-25T12:40:05 IST" finished-at="2021-07-25T12:40:08 IST">
+  <suite name="Command line suite" duration-ms="4097" started-at="2021-07-27T06:54:09Z" finished-at="2021-07-27T06:54:13Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="2890" started-at="2021-07-25T12:40:05 IST" finished-at="2021-07-25T12:40:08 IST">
+    <test name="Command line test" duration-ms="4097" started-at="2021-07-27T06:54:09Z" finished-at="2021-07-27T06:54:13Z">
       <class name="libraryApi.LibraryTest">
-        <test-method status="PASS" signature="postAddbook()[pri:0, instance:libraryApi.LibraryTest@7085bdee]" name="postAddbook" duration-ms="2826" started-at="2021-07-25T12:40:05 IST" finished-at="2021-07-25T12:40:08 IST">
+        <test-method status="PASS" signature="postAddbook(java.lang.String, java.lang.String)[pri:0, instance:libraryApi.LibraryTest@5b464ce8]" name="postAddbook" duration-ms="3783" started-at="2021-07-27T12:24:09Z" data-provider="BookData" finished-at="2021-07-27T12:24:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learn Appium Automation with Java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John foe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddbook -->
+        <test-method status="PASS" signature="postAddbook(java.lang.String, java.lang.String)[pri:0, instance:libraryApi.LibraryTest@5b464ce8]" name="postAddbook" duration-ms="282" started-at="2021-07-27T12:24:13Z" data-provider="BookData" finished-at="2021-07-27T12:24:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learn API Automation with Java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John mate]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postAddbook -->
