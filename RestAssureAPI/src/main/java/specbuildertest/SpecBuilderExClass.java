@@ -42,13 +42,29 @@ public class SpecBuilderExClass {
 		});
 		addPlace.setAddress("29, side layout, cohen 09");
 		addPlace.setWebsite("http://google.com");
-	
-		RequestSpecification req = new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123").build();
-		ResponseSpecification res = new ResponseSpecBuilder().expectStatusCode(200).build();
-		req = given().spec(req).body(addPlace);
 		
 		
-		Response response = req.when().post("/maps/api/place/add/json").then().spec(res).extract().response();
-		System.out.println(response.asString());
+		 RequestSpecification req =new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123")
+				 .setContentType(ContentType.JSON).build();
+		ResponseSpecification resspec =new ResponseSpecBuilder().expectStatusCode(200).expectContentType(ContentType.JSON).build();
+		RequestSpecification res=given().spec(req)
+		.body(addPlace);
+
+		Response response =res.when().post("/maps/api/place/add/json").
+		then().spec(resspec).extract().response();
+
+		String responseString=response.asString();
+		System.out.println(responseString);
+
+//
+//		
+//		
+//		RequestSpecification req = new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123").build();
+//		ResponseSpecification res = new ResponseSpecBuilder().expectStatusCode(200).build();
+//		req = given().spec(req).body(addPlace);
+//		
+//		
+//		Response response = req.when().post("/maps/api/place/add/json").then().spec(res).extract().response();
+//		System.out.println(response.asString());
 	}
 }

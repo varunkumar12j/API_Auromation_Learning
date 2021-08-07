@@ -44,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Project_Code\RestApi\RestAssureAPI"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -56,12 +57,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Cucumber.RestAssureFrameWork"/>
 			<item value="automation.RestAssureAPI"/>
 		</list>
 		<list key="groupId">
+			<item value="Cucumber"/>
 			<item value="automation"/>
 		</list>
 		<list key="artifactId">
+			<item value="RestAssureFrameWork"/>
 			<item value="RestAssureAPI"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -13,7 +13,6 @@
 <fullyQualifiedTypeName name="pojo.WebAutomation"/>
 <fullyQualifiedTypeName name="pojo.Mobile"/>
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
-<fullyQualifiedTypeName name="io.restassured.RestAssured"/>
 <fullyQualifiedTypeName name="serialize.Location"/>
 <fullyQualifiedTypeName name="serialize.Add"/>
 <fullyQualifiedTypeName name="io.restassured.parsing.Parser"/>
@@ -34,4 +33,10 @@
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.util.ListIterator"/>
 <fullyQualifiedTypeName name="Parent"/>
+<fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
+<fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
+<fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
+<fullyQualifiedTypeName name="io.restassured.response.Response"/>
+<fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
 </qualifiedTypeNameHistroy>
