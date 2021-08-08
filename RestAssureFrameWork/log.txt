@@ -16,18 +16,18 @@ Body:
         "lng": 33.427362
     },
     "accuracy": 50,
-    "name": "Frontline house",
+    "name": "RandomName",
     "phone_number": "(+91) 983 893 3937",
     "types": [
         "shoe park",
         "shop"
     ],
     "website": "http://google.com",
-    "language": "French-IN",
+    "language": "English",
     "address": "29, side layout, cohen 09"
 }
 HTTP/1.1 200 OK
-Date: Sat, 07 Aug 2021 17:20:42 GMT
+Date: Sun, 08 Aug 2021 13:27:35 GMT
 Server: Apache/2.4.18 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,8 +40,76 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "e23c850382660dd5fb1d84f9a300c3e7",
+    "place_id": "2d0bf8e3fe2acf67c7c975bfde061ad1",
     "scope": "APP",
-    "reference": "400dc36c798615f0d91b19f6bac9066e400dc36c798615f0d91b19f6bac9066e",
-    "id": "400dc36c798615f0d91b19f6bac9066e"
+    "reference": "67b9d2371e025d55123943dbc3e292d067b9d2371e025d55123943dbc3e292d0",
+    "id": "67b9d2371e025d55123943dbc3e292d0"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=2d0bf8e3fe2acf67c7c975bfde061ad1
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=2d0bf8e3fe2acf67c7c975bfde061ad1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Sun, 08 Aug 2021 13:27:37 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 250
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-38.383494",
+        "longitude": "33.427362"
+    },
+    "accuracy": "50",
+    "name": "RandomName",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "29, side layout, cohen 09",
+    "types": "shoe park,shop",
+    "website": "http://google.com",
+    "language": "English"
+}
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "2d0bf8e3fe2acf67c7c975bfde061ad1"
+}
+HTTP/1.1 200 OK
+Date: Sun, 08 Aug 2021 13:27:39 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
 }

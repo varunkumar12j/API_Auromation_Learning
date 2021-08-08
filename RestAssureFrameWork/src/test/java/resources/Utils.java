@@ -12,20 +12,27 @@ import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
 import io.restassured.http.ContentType;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 
 public class Utils {
 
+	private static RequestSpecification rsb;
+
 	public RequestSpecification getRequestSpecBuilder() {
-		PrintStream stream=null;
-		try {
-			stream = new PrintStream(new FileOutputStream("log.txt"));
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+		if (rsb==null) {
+			PrintStream stream=null;
+			try {
+				stream = new PrintStream(new FileOutputStream("log.txt"));
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
+			rsb = new RequestSpecBuilder().setBaseUri(loadProperties("baseUrl")).addQueryParam("key", "qaclick123").addFilter(RequestLoggingFilter.logRequestTo(stream))
+					.addFilter(ResponseLoggingFilter.logResponseTo(stream)).setContentType(ContentType.JSON).build();
 		}
-		return new RequestSpecBuilder().setBaseUri(loadProperties("baseUrl")).addQueryParam("key", "qaclick123").addFilter(RequestLoggingFilter.logRequestTo(stream))
-				.addFilter(ResponseLoggingFilter.logResponseTo(stream)).setContentType(ContentType.JSON).build();
+		return rsb;
 	}
 	
 	public ResponseSpecification getResponseSpecBuilder() {
@@ -42,5 +49,9 @@ public class Utils {
 			e.printStackTrace();
 		}
 		return pro.getProperty(key);
+	}
+	
+	public String getJsonPathValue(Response response,String path) {
+		return new JsonPath(response.asString()).getString(path);
 	}
 }

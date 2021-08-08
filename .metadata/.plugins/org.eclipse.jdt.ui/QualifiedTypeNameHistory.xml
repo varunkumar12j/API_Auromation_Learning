@@ -39,4 +39,12 @@
 <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
 <fullyQualifiedTypeName name="io.restassured.response.Response"/>
 <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
+<fullyQualifiedTypeName name="resources.TestDataBuildFile"/>
+<fullyQualifiedTypeName name="resources.Utils"/>
+<fullyQualifiedTypeName name="io.restassured.filter.log.RequestLoggingFilter"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="io.restassured.filter.log.ResponseLoggingFilter"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
 </qualifiedTypeNameHistroy>
